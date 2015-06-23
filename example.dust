@@ -11,9 +11,9 @@
 <a href="https://github.com/akdubya/dustjs/blob/master/test/examples.js">Dust examples </a>
 {! this is a comment !}
 {! this is 
-  a multiline
-    comment 
-    !}
+a multiline
+comment 
+!}
 
 {! replace !}
 Hello {name}! You have {count} messages.
