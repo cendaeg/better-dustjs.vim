@@ -16,3 +16,5 @@ function! DustIndent(lnum)
   let cindent = cindent(a:lnum)
   let previousIndent = indent(previousNum)
   echo line
+:endfunction
+
